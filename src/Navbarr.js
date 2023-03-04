@@ -9,7 +9,7 @@ function Navbarr() {
   return (
     <Navbar bg="light" expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#">Navbar scfefefefeffefefroll</Navbar.Brand>
+        <Navbar.Brand href="#">Navbar </Navbar.Brand>
         <Navbar.Toggle aria-controls="Navbarr" />
         <Navbar.Collapse id="Navbarr">
           <Nav
